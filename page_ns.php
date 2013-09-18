@@ -11,7 +11,7 @@
  * @subpackage Twenty_Ten
  * @since Twenty Ten 1.0
  */
-this is a new version 2.1
+
 get_header(); ?>
 
 		<div id="container">
